@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-hit/encoding/json"
+	"github.com/yangjishen/go-hit/encoding/json"
 	"google.golang.org/protobuf/proto"
 )
 

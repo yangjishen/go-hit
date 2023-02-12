@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/go-hit/encoding"
-	"github.com/go-hit/log"
+	"github.com/yangjishen/go-hit/encoding"
+	"github.com/yangjishen/go-hit/log"
 )
 
 // Decoder is config decoder.

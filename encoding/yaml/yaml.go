@@ -1,8 +1,9 @@
 package yaml
 
 import (
-	"github.com/go-hit/encoding"
 	"gopkg.in/yaml.v3"
+
+	"github.com/yangjishen/go-hit/encoding"
 )
 
 // Name is the name registered for the yaml codec.

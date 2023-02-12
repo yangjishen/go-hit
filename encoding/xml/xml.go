@@ -2,7 +2,8 @@ package xml
 
 import (
 	"encoding/xml"
-	"github.com/go-hit/encoding"
+
+	"github.com/yangjishen/go-hit/encoding"
 )
 
 // Name is the name registered for the xml codec.

@@ -7,7 +7,7 @@ import (
 	"github.com/go-playground/form/v4"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/go-hit/encoding"
+	"github.com/yangjishen/go-hit/encoding"
 )
 
 const (

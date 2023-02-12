@@ -8,11 +8,11 @@ import (
 	"time"
 
 	// init encoding
-	_ "github.com/go-hit/encoding/json"
-	_ "github.com/go-hit/encoding/proto"
-	_ "github.com/go-hit/encoding/xml"
-	_ "github.com/go-hit/encoding/yaml"
-	"github.com/go-hit/log"
+	_ "github.com/yangjishen/go-hit/encoding/json"
+	_ "github.com/yangjishen/go-hit/encoding/proto"
+	_ "github.com/yangjishen/go-hit/encoding/xml"
+	_ "github.com/yangjishen/go-hit/encoding/yaml"
+	"github.com/yangjishen/go-hit/log"
 )
 
 var (

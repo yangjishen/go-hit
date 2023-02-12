@@ -5,11 +5,11 @@ import (
 	"encoding/gob"
 	"encoding/json"
 	"fmt"
-	"github.com/go-hit/log"
 	"strings"
 	"sync"
 
 	"github.com/imdario/mergo"
+	"github.com/yangjishen/go-hit/log"
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/proto"
 )

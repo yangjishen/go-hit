@@ -1,12 +1,13 @@
 package env
 
 import (
-	"github.com/go-hit/config"
-	"github.com/go-hit/config/file"
 	"os"
 	"path/filepath"
 	"reflect"
 	"testing"
+
+	"github.com/yangjishen/go-hit/config"
+	"github.com/yangjishen/go-hit/config/file"
 )
 
 const _testJSON = `

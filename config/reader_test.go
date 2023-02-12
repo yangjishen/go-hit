@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-hit/encoding"
+	"github.com/yangjishen/go-hit/encoding"
 )
 
 func TestReader_Merge(t *testing.T) {

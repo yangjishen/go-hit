@@ -3,7 +3,7 @@ package env
 import (
 	"context"
 
-	"github.com/go-hit/config"
+	"github.com/yangjishen/go-hit/config"
 )
 
 type watcher struct {
